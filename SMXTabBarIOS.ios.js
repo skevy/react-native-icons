@@ -7,7 +7,7 @@
 
 var React = require('React');
 var ReactNativeViewAttributes = require('ReactNativeViewAttributes');
-var SMXTabBarIconItemIOS = require('SMXTabBarItemIOS');
+var SMXTabBarIconItemIOS = require('./SMXTabBarIconItemIOS.ios');
 var StyleSheet = require('StyleSheet');
 var merge = require('merge');
 
