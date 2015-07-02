@@ -32,7 +32,7 @@ An icon has a name, size, and a color (optional)
 ## Example of icons
 
 ```
-var Icon = require('FAKIconImage');
+var Icon = require('react-native-icons').FAKIconImage;
 
 
 <Icon
@@ -81,7 +81,7 @@ var Icon = require('FAKIconImage');
 
 ```javascript
 
-var SMXTabBarIOS = require('SMXTabBarIOS');
+var SMXTabBarIOS = require('react-native-icons').SMXTabBarIOS;
 var SMXTabBarItemIOS = SMXTabBarIOS.Item;
 
 var Example = React.createClass({
